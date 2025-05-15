@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tahawarihsan" target="blank"><img src="https://img.shields.io/twitter/follow/tahawarihsan?logo=twitter&style=for-the-badge" alt="tahawarihsan" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently working in  **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-tahawar-ihsan.netlify.app/](https://portfolio-tahawar-ihsan.netlify.app/)
 
